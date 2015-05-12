@@ -1,0 +1,29 @@
+{
+  "subtitle": "What vaccines to give", 
+  "description": "", 
+  "language": "eng_GB", 
+  "title": "Concerned Dad", 
+  "primary_category": "e2a287abe22a47ef8e85c287ad2e5648", 
+  "created_at": "2015-05-12T09:05:13.959201+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-05-12T09:05:13.959449+00:00", 
+  "_version": {
+    "package_version": "1.0.2", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "My sweet little baby is now six weeks old.She is growing so fast! My family lives in the village, while I have to work in the city. But I keep thinking about her all the time. I know she needs a vaccination now as she is six weeks old. But where should my wife go for vaccination? What vaccine should she ask for? How can I make sure that my baby gets the necessary vaccines timely? Please tell me little details about the vaccines like tuberculosis, polio etc. I need clear information so that I can tell my wife.  \r\nI\u2019ve also heard that it\u2019s time for my baby to have the first dose of polio vaccine.  Is that the vaccine to be received at six weeks or is it something else? I am so much concerned about my baby, as she is my baby after all.\r\n  \r\n**MAMA HELP: All the necessary vaccines are given by the government free of charge according to the EPI schedule. Any health center will give you a vaccination card with all vaccines\u2019 names, schedules and dates.  Your baby will get a dose of BCG (Tuberculosis) vaccine, 3 doses of pentavalent & oral polio vaccine at the age of 6, 10 and 14 weeks and a dose of measles and rubella vaccine at the age of 9 months.**\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "concerned-dad", 
+  "uuid": "24bbda27432b40128392d3af33be591e"
+}
