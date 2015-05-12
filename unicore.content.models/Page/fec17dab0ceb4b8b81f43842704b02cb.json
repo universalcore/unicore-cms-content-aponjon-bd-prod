@@ -1,0 +1,29 @@
+{
+  "subtitle": "Medicine for indigestion", 
+  "description": "Medicine for indigestion", 
+  "language": "eng_GB", 
+  "title": "Worried Husband", 
+  "primary_category": "e2a287abe22a47ef8e85c287ad2e5648", 
+  "created_at": "2015-05-12T09:15:16.633733+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-05-12T09:15:16.634098+00:00", 
+  "_version": {
+    "package_version": "1.0.2", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "My wife is in her 9th week of pregnancy. Recently she has become very much weak. She cannot eat anything. She says she doesn\u2019t have appetite. I think she\u2019s having indigestion.Though this didn\u2019t happen in her last pregnancy when she had a stillbirth, I am really worried for my wife and baby. Last time when my wife was having pain for two days and I requested the elders in my family to take her to the hospital. They did not listen to me. I was in the city for work and my wife was in the village at that time. My elders relied on the local \u2018Dai\u2019 (untrained midwife) and took my wife to her. When things got really bad, they finally called a doctor.The doctor gave injections and saline. Within one hour, the baby was delivered. But my child was already dead.I lost my first child. I don\u2019t want to lose this one. I don\u2019t want to make the same mistakes twice.What medicine can she take now for indigestion?\r\n\r\n**APONJON HELP:  Nausea & vomiting is very common in the first three months of pregnancy. For indigestion she can take pantoprazole. But remember because of the last stillbirth she belongs to the high risk pregnancy group and should continue this pregnancy under the care of an obstetrics & gynecology specialist. She should have regular antenatal checkups.** \r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "worried-husband", 
+  "uuid": "fec17dab0ceb4b8b81f43842704b02cb"
+}
