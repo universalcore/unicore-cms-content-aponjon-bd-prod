@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "eng_GB", 
+  "title": "Sign up for Aponjon messaging service ", 
+  "primary_category": null, 
+  "created_at": "2015-05-12T08:19:30.610773+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-05-12T08:19:30.610988+00:00", 
+  "_version": {
+    "package_version": "1.0.2", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "**Aponjon services**\r\n\r\nAre you pregnant or do you have a baby under 1 year age? Is your daughter, daughter-in-law or wife pregnant, or are you the father or grandmother of a baby under 1 year? Then the \u2018Aponjon\u2019 service is a great option for you! \r\n\r\nAll you need is a phone. Register to the service and \u2018Aponjon\u2019 will send you two SMS or voice messages a week if you are the pregnant woman or new mom, and one per week if you are the father or grandmother of the child.* The messages will contain vital health, development and care-giving information both for the mom during and after pregnancy and also the baby after it\u2019s born till the first birthday. You will be amazed how the messages address almost all the problems you are going through. The messages will also remind you about all the checkups and vaccinations that the mom and your child need to go for.\r\n\r\nThat\u2019s not all. Once registered, you will also get access to a 24-hour medical help line where doctors can answer any questions you may have.\r\n\r\n**How to Register** \r\nRegistration is easy. To register, simply type Reg and then send an SMS to 16227. Aponjon agents will call you back shortly for detailed information and complete the registration process. Other than that you can also dial 16227 and follow the menu to register yourself or talk to the call center agent for registration**.  \r\n\r\nCost per message (SMS/Voice message) only 2.00 taka + VAT\r\n\r\nCall rate for dialing call center: 2.00 taka + VAT (per minute with a 10 second pulse)", 
+  "source": "365c3bed9b9548cb95d7cf5bf3db3a1c", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "aponjon", 
+  "uuid": "68dce1a9794644689a5b3cd6ba71270a"
+}
