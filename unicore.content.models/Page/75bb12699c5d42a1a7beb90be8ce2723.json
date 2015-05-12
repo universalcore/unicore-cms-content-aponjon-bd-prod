@@ -1,0 +1,29 @@
+{
+  "subtitle": "Baby\u2019s caught cold", 
+  "description": "", 
+  "language": "eng_GB", 
+  "title": "Worried Mom", 
+  "primary_category": "e2a287abe22a47ef8e85c287ad2e5648", 
+  "created_at": "2015-05-12T09:12:36.074520+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-05-12T09:12:36.074733+00:00", 
+  "_version": {
+    "package_version": "1.0.2", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "It's been a while since my baby has caught cold. And the little cold she has right now is not that serious. She doesn't have fever or runny nose but she coughs a little bit occasionally, especially in the morning. I also hear a crackling noise in her chest when she breathes and her nose seems to be blocked. I think she\u2019s having trouble breathing as she can\u2019t sleep well. The local quack doctor prescribed azithromycin (an antibiotic). My little daughter was prescribed antibiotic when she had pneumonia. But is antibiotic required for the little cold she has now? Is it for babies at all? Though confused I went to the pharmacy and bought it. After coming back home, I noticed that it looked different, so I looked carefully and saw that it says Erythromycin on the label instead of azithromycin. Can I give it to my baby? If not what medicine should I give her now?\r\n\r\n**MAMA HELP: You should see a doctor, not a quack. Only a doctor can see your child and decide whether she needs antibiotic. Take medicine as per the doctor\u2019s advice. Just make sure that pharmacist gives you no other medicine than the prescribed one.** \r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "worried-mom", 
+  "uuid": "75bb12699c5d42a1a7beb90be8ce2723"
+}
